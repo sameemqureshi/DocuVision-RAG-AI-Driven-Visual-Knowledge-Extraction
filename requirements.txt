@@ -1,0 +1,15 @@
+fastapi 
+uvicorn 
+transformers 
+torch 
+torchvision
+pdf2image 
+poppler-utils
+google-generativeai
+colpali_engine==0.1.1
+transformers 
+mteb
+poppler-utils
+pdf2image 
+proto-plus==1.24.0.dev1
+google-generativeai
