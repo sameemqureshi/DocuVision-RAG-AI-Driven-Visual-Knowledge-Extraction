@@ -115,7 +115,7 @@ async def query(request: QueryRequest):
     model_llm = genai.GenerativeModel("gemini-1.5-flash")
 
 
-    genai.configure(api_key='AIzaSyC2ZyJC7RxLCZ7jz9zo-7OllmHjG1D2l64')
+    genai.configure(api_key='')
 
     # Pass the query and image to the LLM
     model_llm = genai.GenerativeModel("gemini-1.5-flash")
